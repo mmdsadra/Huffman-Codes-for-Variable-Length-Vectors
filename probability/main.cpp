@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//generating blocks
+//generating blocks 
 string blockgen(int n) {
 	if (n == 0) {
 		string tmp = {};
